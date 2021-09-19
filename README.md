@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="100em" src="https://cdn3.iconfinder.com/data/icons/weather-3-4/128/Damp-Wet-Moist-Humid-Weather-Forecast-512.png" alt="dump image" >
+</div>
+
 # Sobre
 DAMP (Docker - Apache - MySQL - PHP) é um ambiente de desenvolvimento para rodar o PHP7 com containers.
 
@@ -16,9 +20,8 @@ Com o docker instalado na sua máquina.
 
 1 - Clone o repositório
 ```bash
-git clone
+git clone https://github.com/ViniciusMazon/damp.git
 ```
-
 2 - Suba o compose
 ```bash
 docker-compose up --build
